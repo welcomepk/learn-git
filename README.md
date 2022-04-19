@@ -3,3 +3,9 @@
 ## git status
 	used for defferenciate between local and staging area
 	this line is added by other programmer
+## git pull
+	mixchure of fetch and merge commands
+## git fetch
+	fetch changes from remote to local machine without changing the local repo
+## git merge
+	it merges the fetched changes into the local repo
