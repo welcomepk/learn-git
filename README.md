@@ -11,3 +11,4 @@
 	it merges the fetched changes into the local repo
 	
 	### for tests
+		this is made for resolving conflicts just FOR testing purpose
