@@ -9,3 +9,5 @@
 	fetch changes from remote to local machine without changing the local repo
 ## git merge
 	it merges the fetched changes into the local repo
+	
+	### for tests
